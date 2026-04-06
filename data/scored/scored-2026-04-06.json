@@ -1,0 +1,581 @@
+[
+  {
+    "id": "github:release:305529189",
+    "title": "sgl-project/sglang released v0.5.10",
+    "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.10",
+    "source": "github",
+    "score": 7.0,
+    "reason": "This release introduces several high-impact technical improvements, including CUDA graph optimizations, partial failure tolerance, and GPU staging buffer optimizations, which are valuable for performance and reliability in AI/ML deployments. The changes are technically deep and relevant to modern AI infrastructure.",
+    "summary": "sglang v0.5.10 introduces performance optimizations for CUDA graphs, partial failure tolerance, and GPU staging buffers for improved AI inference efficiency.",
+    "tags": [
+      "AI",
+      "CUDA",
+      "GPU-optimization",
+      "machine-learning",
+      "performance"
+    ]
+  },
+  {
+    "id": "hackernews:story:47661439",
+    "title": "I Won't Download Your App. The Web Version Is A-OK",
+    "url": "https://www.0xsid.com/blog/wont-download-your-app",
+    "source": "hackernews",
+    "score": 7.0,
+    "reason": "High-value discussion on the preference for web vs. native apps, with insightful community comments highlighting privacy, usability, and generational differences. The engagement (303 points, 174 comments) indicates strong community interest.",
+    "summary": "An argument for preferring web versions over native apps, citing privacy, usability, and unnecessary app bloat.",
+    "tags": [
+      "web-development",
+      "privacy",
+      "user-experience",
+      "mobile",
+      "browsers"
+    ]
+  },
+  {
+    "id": "hackernews:story:47655408",
+    "title": "Show HN: I built a tiny LLM to demystify how language models work",
+    "url": "https://github.com/arman-bd/guppylm",
+    "source": "hackernews",
+    "score": 8.0,
+    "reason": "The project provides a simplified yet educational implementation of an LLM, making it valuable for understanding core concepts. The discussion includes insightful comparisons to similar projects and broader reflections on LLM behavior, enhancing its educational value.",
+    "summary": "A minimal 9M-parameter LLM implementation in PyTorch designed to demystify language model internals, with training possible on free Colab resources.",
+    "tags": [
+      "LLM",
+      "PyTorch",
+      "education",
+      "transformers",
+      "machine-learning"
+    ]
+  },
+  {
+    "id": "hackernews:story:47651703",
+    "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+    "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+    "source": "hackernews",
+    "score": 7.0,
+    "reason": "The content discusses Microsoft's GUI strategy, a topic of historical and current relevance in software engineering, with high engagement (678 points, 460 comments) indicating strong community interest. The comments provide diverse viewpoints and technical discussions, adding value.",
+    "summary": "A critique of Microsoft's inconsistent GUI strategy since the Petzold era, with community discussion on its impact and failures.",
+    "tags": [
+      "Microsoft",
+      "GUI",
+      "Software Engineering",
+      "User Interface",
+      "WPF"
+    ]
+  },
+  {
+    "id": "hackernews:story:47652561",
+    "title": "Gemma 4 on iPhone",
+    "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+    "source": "hackernews",
+    "score": 8.0,
+    "reason": "High-value content due to the significant advancement of running Gemma 4 locally on an iPhone, enabling mobile AI actions without cloud dependency. The discussion includes enthusiastic and insightful comments from users testing the model, highlighting practical applications and potential improvements.",
+    "summary": "Gemma 4 now runs locally on iPhones, enabling on-device AI capabilities like mobile actions and agent skills.",
+    "tags": [
+      "AI",
+      "Mobile",
+      "LLM",
+      "Edge-Computing",
+      "Gemma"
+    ]
+  },
+  {
+    "id": "hackernews:story:47656622",
+    "title": "An open-source 240-antenna array to bounce signals off the Moon",
+    "url": "https://moonrf.com/",
+    "source": "hackernews",
+    "score": 8.0,
+    "reason": "High Value due to innovative hardware project with significant technical depth and community engagement (200 points, 31 comments). Discussion includes technical insights about phased-array technology and comparisons to commercial systems like Starlink.",
+    "summary": "An open-source 240-antenna array project for lunar signal bouncing, demonstrating serious engineering with creative RF solutions and cost-effective implementation.",
+    "tags": [
+      "hardware",
+      "RF-engineering",
+      "open-source",
+      "phased-array",
+      "Moon-bounce"
+    ]
+  },
+  {
+    "id": "hackernews:story:47658146",
+    "title": "France pulls last gold held in US for $15B gain",
+    "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
+    "source": "hackernews",
+    "score": 5.0,
+    "reason": "The article discusses an interesting financial maneuver by France regarding gold reserves, but the community comments reveal that the headline is misleading—it's more about revaluation than actual profit. The discussion is active but largely critical of the framing.",
+    "summary": "France repatriated its remaining gold reserves from the US, claiming a $15B gain, though comments clarify this was due to revaluation rather than new wealth creation.",
+    "tags": [
+      "finance",
+      "gold",
+      "monetary-policy",
+      "France",
+      "US"
+    ]
+  },
+  {
+    "id": "rss:simonwillison.net_atom_everything_:5784065778586420970",
+    "title": "Google AI Edge Gallery",
+    "url": "https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything",
+    "source": "rss",
+    "score": 7.0,
+    "reason": "The content highlights a significant development in mobile AI applications with Google's Gemma models, demonstrating practical utility and innovative features. The detailed description of capabilities and performance adds value, though lack of source code visibility slightly limits technical depth.",
+    "summary": "Google's AI Edge Gallery app enables running Gemma AI models directly on iPhones with impressive performance and interactive features.",
+    "tags": [
+      "AI",
+      "mobile",
+      "Google",
+      "Gemma",
+      "edge-computing"
+    ]
+  },
+  {
+    "id": "rss:simonwillison.net_atom_everything_:-2655058097949943129",
+    "title": "datasette-ports 0.2",
+    "url": "https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything",
+    "source": "rss",
+    "score": 5.0,
+    "reason": "Incremental improvement to an existing tool (Datasette plugin), making it more flexible but not groundbreaking. No discussion or community engagement provided.",
+    "summary": "datasette-ports 0.2 release removes the Datasette dependency while maintaining plugin compatibility.",
+    "tags": [
+      "datasette",
+      "python",
+      "database",
+      "developer-tools"
+    ]
+  },
+  {
+    "id": "rss:simonwillison.net_atom_everything_:3616888515696208772",
+    "title": "scan-for-secrets 0.3",
+    "url": "https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything",
+    "source": "rss",
+    "score": 5.0,
+    "reason": "Incremental improvement to an existing tool with useful but not groundbreaking features. The release adds practical functionality for secret redaction but doesn't represent a major advancement.",
+    "summary": "Version 0.3 of scan-for-secrets adds a redaction feature for securely replacing detected secrets in files.",
+    "tags": [
+      "security",
+      "developer-tools",
+      "python"
+    ]
+  },
+  {
+    "id": "rss:simonwillison.net_atom_everything_:-6471619595037678042",
+    "title": "Cleanup Claude Code Paste",
+    "url": "https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything",
+    "source": "rss",
+    "score": 4.0,
+    "reason": "A niche utility tool with limited but specific use case for cleaning up Claude Code terminal output. No discussion or broader impact mentioned.",
+    "summary": "A small web tool to clean up whitespace and formatting when copying prompts from the Claude Code terminal app.",
+    "tags": [
+      "developer-tools",
+      "text-processing",
+      "cli"
+    ]
+  },
+  {
+    "id": "rss:simonwillison.net_atom_everything_:94606453477651346",
+    "title": "datasette-ports 0.1",
+    "url": "https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything",
+    "source": "rss",
+    "score": 5.0,
+    "reason": "Incremental improvement for a niche problem (tracking Datasette instances), primarily useful for the author's workflow. No community discussion provided.",
+    "summary": "A new Datasette plugin (datasette-ports 0.1) helps track running Datasette instances and their configurations.",
+    "tags": [
+      "datasette",
+      "developer-tools",
+      "productivity",
+      "python",
+      "plugins"
+    ]
+  },
+  {
+    "id": "rss:simonwillison.net_atom_everything_:5931012151547584948",
+    "title": "Eight years of wanting, three months of building with AI",
+    "url": "https://simonwillison.net/2026/Apr/5/building-with-ai/#atom-everything",
+    "source": "rss",
+    "score": 7.0,
+    "reason": "High-value content discussing a novel AI-assisted development project (syntaqlite) with practical applications for SQLite tooling. The endorsement by Simon Willison and the technical depth of the project add credibility. However, the content is more of a commentary/link rather than a deep technical dive itself.",
+    "summary": "A discussion of syntaqlite, an AI-assisted project for building SQLite development tools after years of conceptualization.",
+    "tags": [
+      "AI-assisted-development",
+      "SQLite",
+      "developer-tools",
+      "agentic-engineering",
+      "open-source"
+    ]
+  },
+  {
+    "id": "rss:simonwillison.net_atom_everything_:1761624435359494502",
+    "title": "Quoting Chengpeng Mou",
+    "url": "https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything",
+    "source": "rss",
+    "score": 7.0,
+    "reason": "Reveals significant insights into ChatGPT usage patterns in healthcare, particularly for underserved populations, but lacks technical depth or novel methodology.",
+    "summary": "Analysis of anonymized U.S. ChatGPT data shows high healthcare-related query volumes, especially from hospital deserts and outside clinic hours.",
+    "tags": [
+      "ai-ethics",
+      "generative-ai",
+      "openai",
+      "healthcare",
+      "llms"
+    ]
+  },
+  {
+    "id": "rss:simonwillison.net_atom_everything_:-2081225825020848863",
+    "title": "Syntaqlite Playground",
+    "url": "https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything",
+    "source": "rss",
+    "score": 7.0,
+    "reason": "High-value tool with technical depth, leveraging AI and WebAssembly, and generating discussion on Hacker News. The content provides insight into the development process and practical applications.",
+    "summary": "Simon Willison introduces a playground for Syntaqlite, a tool built with AI that formats SQL queries, now compiled to WebAssembly for browser use.",
+    "tags": [
+      "SQL",
+      "WebAssembly",
+      "AI",
+      "developer-tools",
+      "Python"
+    ]
+  },
+  {
+    "id": "rss:simonwillison.net_atom_everything_:6709394302991754094",
+    "title": "scan-for-secrets 0.2",
+    "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything",
+    "source": "rss",
+    "score": 4.0,
+    "reason": "Minor version update with incremental improvements to a CLI tool for secret scanning. Useful but not groundbreaking.",
+    "summary": "Version 0.2 of scan-for-secrets adds streaming results, multi-directory scanning, and new API functions.",
+    "tags": [
+      "security",
+      "cli",
+      "python",
+      "dev-tools"
+    ]
+  },
+  {
+    "id": "rss:simonwillison.net_atom_everything_:4851304509617665697",
+    "title": "scan-for-secrets 0.1.1",
+    "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything",
+    "source": "rss",
+    "score": 3.0,
+    "reason": "Minor incremental update to a tool with limited impact and no significant technical depth or novelty.",
+    "summary": "Release of scan-for-secrets 0.1.1 with minor documentation and escaping scheme updates.",
+    "tags": [
+      "security",
+      "tools",
+      "github"
+    ]
+  },
+  {
+    "id": "rss:simonwillison.net_atom_everything_:-6205187907074484812",
+    "title": "scan-for-secrets 0.1",
+    "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything",
+    "source": "rss",
+    "score": 6.0,
+    "reason": "Interesting tool for security-conscious developers, but limited to a niche use case of scanning for secrets in log files. The technical implementation details (handling different encodings) add value.",
+    "summary": "A Python tool called scan-for-secrets that helps detect API keys and other secrets in log files before publishing them.",
+    "tags": [
+      "security",
+      "python",
+      "developer-tools",
+      "api-keys"
+    ]
+  },
+  {
+    "id": "rss:simonwillison.net_atom_everything_:-1647655669577769799",
+    "title": "research-llm-apis 2026-04-04",
+    "url": "https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything",
+    "source": "rss",
+    "score": 7.0,
+    "reason": "High value due to technical depth in designing an abstraction layer for LLM APIs, involving multiple vendors and novel approaches. The content is relevant to AI/ML and software engineering, though it's a work-in-progress rather than a complete solution.",
+    "summary": "Simon Willison discusses work on a major update to his LLM Python library to better handle features like server-side tool execution across multiple LLM vendors.",
+    "tags": [
+      "LLM",
+      "Python",
+      "API",
+      "AI",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40700",
+    "title": "印度电影业激进拥抱 AI：制作成本缩减八成，多项实验引发争议",
+    "url": "https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/",
+    "source": "telegram",
+    "score": 7.0,
+    "reason": "The content highlights significant AI adoption in India's film industry, leading to major cost reductions and efficiency gains, but also sparking debates on artistic integrity. The discussion around quality and ethical concerns adds depth.",
+    "summary": "India's film industry is aggressively adopting AI, cutting production costs by 80% and sparking debates on artistic authenticity and quality.",
+    "tags": [
+      "AI",
+      "Film Industry",
+      "Ethics",
+      "Automation",
+      "Entertainment"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40701",
+    "title": "AI 并未取代程序员：全球软件工程职位空缺今年激增 30%",
+    "url": "https://www.businessinsider.com/ai-isnt-killing-software-coding-jobs-booming-trueup-2026-4",
+    "source": "telegram",
+    "score": 7.0,
+    "reason": "The content provides valuable insights into the current state of the software engineering job market, countering common fears about AI replacing programmers. It cites credible data from TrueUp and discusses the impact of AI investments on job creation. The discussion quality is implied to be good due to the inclusion of expert commentary and data analysis.",
+    "summary": "Despite fears of AI replacing programmers, global software engineering job vacancies have surged by 30% this year, driven by increased investment in AI-related projects.",
+    "tags": [
+      "AI",
+      "Software Engineering",
+      "Job Market",
+      "Tech Hiring",
+      "Career Trends"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40702",
+    "title": "2026 年 1 月 5 日起国内航线燃油附加费下调  自 2026 年 1 月 5 日 0 时起，国内航线旅客运输燃油附加费征收标准将下调。",
+    "url": "https://t.me/zaihuapd/40702",
+    "source": "telegram",
+    "score": 2.0,
+    "reason": "This content is a routine announcement about a minor policy change in domestic airfare fuel surcharges in China, with no technical depth or broader impact. It is relevant only to a very specific audience (travelers in China) and lacks novelty or significance for the general tech/engineering community.",
+    "summary": "China's domestic airfare fuel surcharges will decrease starting January 5, 2026.",
+    "tags": [
+      "aviation",
+      "china",
+      "policy",
+      "travel",
+      "economics"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40703",
+    "title": "罗技回应发布侮辱性广告：“一降价你像狗一样跑来”  此前，抖音账号“罗技”发布产品推广视频，配文“当我一降价 你还不是像狗一样跑过来”，视频内容涉嫌贬低、侮辱消",
+    "url": "https://t.me/zaihuapd/40703",
+    "source": "telegram",
+    "score": 4.0,
+    "reason": "The content discusses a controversial advertisement by Logitech, which is notable for its poor judgment but lacks technical depth or broader industry impact. The discussion quality is implied to be reactive (public outrage) rather than insightful.",
+    "summary": "Logitech faced backlash for an offensive ad campaign and issued an apology after public outcry.",
+    "tags": [
+      "branding",
+      "public-relations",
+      "consumer-rights",
+      "social-media",
+      "controversy"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40704",
+    "title": "🐟 闲鱼调整“鱼小铺”优惠政策：4 月 18 日起订单按成交额收取 1.6% 软件服务费",
+    "url": "https://www.ithome.com/0/936/142.htm",
+    "source": "telegram",
+    "score": 5.0,
+    "reason": "The content discusses a policy change in a specific platform (Xianyu) regarding service fees for sellers, which is relevant to e-commerce and platform economics but has limited broader technical impact.",
+    "summary": "Xianyu adjusts its 'Fish Shop' policy to charge a 1.6% software service fee on orders from April 18, 2026.",
+    "tags": [
+      "e-commerce",
+      "platform-policy",
+      "service-fee"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40705",
+    "title": "🍏 苹果批准 AMD 与 NVIDIA 外置显卡驱动，支持 Mac 运行 AI 大模型",
+    "url": "https://www.tomshardware.com/pc-components/gpu-drivers/apple-approves-drivers-that-let-amd-and-nvidia-egpus-run-on-mac-software-designed-for-ai-though-and-not-built-for-gaming",
+    "source": "telegram",
+    "score": 7.0,
+    "reason": "The content reports a significant development for AI developers using Macs, enabling eGPU support for AI workloads without complex workarounds. However, the impact is somewhat niche (Apple Silicon Macs + AI developers) and lacks technical depth or community discussion metrics.",
+    "summary": "Apple has approved third-party drivers enabling AMD/NVIDIA eGPUs on Apple Silicon Macs for AI workloads, offering an alternative to expensive dedicated AI hardware.",
+    "tags": [
+      "Apple",
+      "GPU",
+      "AI",
+      "Mac",
+      "eGPU"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40706",
+    "title": "进展超预期：AI Futures Project 显著提前 AGI 与自动化编程实现预测",
+    "url": "https://blog.aifutures.org/p/q1-2026-timelines-update",
+    "source": "telegram",
+    "score": 9.0,
+    "reason": "The content discusses significant advancements in AGI and automated programming, with concrete evidence of accelerated timelines and commercial success, indicating a potential paradigm shift in the field.",
+    "summary": "AI Futures Project updates predict earlier achievement of AGI and automated programming due to faster-than-expected progress in AI models and coding tools.",
+    "tags": [
+      "AGI",
+      "Automated Programming",
+      "AI Research",
+      "Machine Learning",
+      "Future Predictions"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40707",
+    "title": "《自然》调查：AI 虚假引用入侵学术界，2025 年逾 11 万篇论文受影响",
+    "url": "https://www.nature.com/articles/d41586-026-00969-z",
+    "source": "telegram",
+    "score": 9.0,
+    "reason": "This content highlights a significant and growing issue in academia with AI-generated fake citations, which threatens research integrity. The source is reputable (Nature), and the impact is quantified with alarming statistics. The discussion of publisher responses adds practical relevance.",
+    "summary": "A Nature survey reveals that AI-generated fake citations are contaminating academic literature, with over 110,000 papers projected to be affected by 2025, prompting publishers to implement AI screening tools.",
+    "tags": [
+      "AI Ethics",
+      "Academic Integrity",
+      "Research Publishing",
+      "Generative AI",
+      "Peer Review"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40708",
+    "title": "📱 索尼再次大规模下架 PSN 商店“换皮游戏”，清理 AI 垃圾与低质内容",
+    "url": "https://www.eurogamer.net/sonys-battle-against-shovelware-publishers-persists-as-it-purges-another-load-of-crap-games-from-the-playstation-store",
+    "source": "telegram",
+    "score": 6.0,
+    "reason": "The content reports on Sony's continued efforts to clean up low-quality and AI-generated games from its PlayStation Store, which is relevant to the gaming industry and platform governance. However, it lacks technical depth and is more of a routine update on platform moderation.",
+    "summary": "Sony has conducted another large-scale removal of shovelware and AI-generated low-quality games from the PlayStation Store as part of its ongoing efforts to improve store quality.",
+    "tags": [
+      "Gaming",
+      "Platform Governance",
+      "AI Content",
+      "PlayStation",
+      "Digital Storefronts"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40709",
+    "title": "《战地 6》音频团队为追求极致真实：实地射击车辆并摧毁集装箱以采集音效",
+    "url": "https://www.techradar.com/gaming/we-go-to-great-lengths-to-record-real-sounds-battlefield-6-team-reveals-they-shot-up-cars-and-destroyed-shipping-containers-to-capture-authentic-audio",
+    "source": "telegram",
+    "score": 6.0,
+    "reason": "Interesting insight into game audio production, but niche relevance and limited broader impact.",
+    "summary": "Battlefield 6's audio team conducted extreme real-world sound recording, including shooting vehicles and destroying containers, to achieve ultra-realistic in-game audio.",
+    "tags": [
+      "game-development",
+      "audio-engineering",
+      "sound-design",
+      "battlefield-6",
+      "immersive-technology"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40710",
+    "title": "🅰️ 苹果 App Store 限制提交通过 Vibe coding 创作程序类 App 更新以维护审核机制  苹果公司近期阻止了 Replit 和 Vibec",
+    "url": "https://t.me/zaihuapd/40710",
+    "source": "telegram",
+    "score": 6.0,
+    "reason": "The content discusses a notable policy change by Apple affecting AI-powered coding apps, which is relevant to developers and the app ecosystem. However, the source (Telegram) and lack of detailed technical analysis or community discussion limit its impact.",
+    "summary": "Apple has restricted updates for AI-powered coding apps like Replit and Vibecode in the App Store to prevent bypassing official review processes.",
+    "tags": [
+      "App Store",
+      "AI Programming",
+      "Apple Policy",
+      "App Review",
+      "Developer Tools"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40711",
+    "title": "📱 NASA 公布阿耳忒弥斯 II 任务 3 张由 iPhone 17 Pro Max 拍摄的舱内照片",
+    "url": "https://www.macrumors.com/2026/04/05/nasa-artemis-ii-photos-shot-on-iphone-17-pro-max/",
+    "source": "telegram",
+    "score": 6.0,
+    "reason": "Interesting content about NASA's use of consumer technology in space missions, but lacks technical depth or broader implications. The futuristic mention of iPhone 17 Pro Max suggests this may be speculative or forward-looking content rather than current news.",
+    "summary": "NASA shares photos from the Artemis II mission taken with an iPhone 17 Pro Max, highlighting the use of consumer technology in space.",
+    "tags": [
+      "NASA",
+      "Space Exploration",
+      "iPhone",
+      "Technology",
+      "Artemis"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40714",
+    "title": "🤖 估值 3800 亿美元的 Anthropic 推行透明扁平文化：员工可在 Slack 直接挑战 CEO",
+    "url": "https://mashdigi.com/anthropics-internal-culture-with-its-valuation-soaring-past-380-billion-employees-can-freely-challenge-the-ceo-on-slack/",
+    "source": "telegram",
+    "score": 6.0,
+    "reason": "Interesting insight into Anthropic's unique corporate culture promoting transparency and open communication, though not a technical breakthrough. The discussion of AI safety and organizational dynamics adds moderate value.",
+    "summary": "Anthropic fosters a transparent culture where employees can directly challenge the CEO on Slack to prevent groupthink in AI safety research.",
+    "tags": [
+      "AI Safety",
+      "Corporate Culture",
+      "Transparency",
+      "Anthropic",
+      "Slack"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40715",
+    "title": "🤖 OpenAI 调查 ChatGPT 网页版回复空白问题",
+    "url": "https://status.openai.com/incidents/01KNGPM84F5G72B8Y7ASYNB11H",
+    "source": "telegram",
+    "score": 4.0,
+    "reason": "The content reports a temporary technical issue with ChatGPT's web version that has already been resolved. While it's relevant to users of the service, it doesn't represent a significant development or deep technical insight.",
+    "summary": "OpenAI investigated and resolved an issue where ChatGPT's web version was returning blank responses to some users.",
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "Technical Issue"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40716",
+    "title": "🍏 折叠屏 iPhone 外形疑似首次完整曝光  爆料人 Sonny Dickson 放出了一组据称是 iPhone Fold 的 3D CAD 渲染文件。",
+    "url": "https://t.me/zaihuapd/40716",
+    "source": "telegram",
+    "score": 7.0,
+    "reason": "The content provides a first look at a potential foldable iPhone design, which is of high interest to the tech community, but lacks technical depth or confirmation from Apple.",
+    "summary": "First alleged 3D CAD renders of a foldable iPhone design have been leaked, showing a dual-camera setup and hinge mechanism.",
+    "tags": [
+      "iPhone",
+      "foldable",
+      "leak",
+      "design",
+      "Apple"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40717",
+    "title": "🤖 OpenAI 发布“超级智能”时代政策提案：建议对自动化征税并设立全民分红基金",
+    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "source": "telegram",
+    "score": 8.0,
+    "reason": "High value due to significant policy proposals addressing AI's societal impact, including taxation and public funds, with potential industry-wide implications.",
+    "summary": "OpenAI proposes new policies for the 'superintelligent' era, including automation taxes and a public dividend fund, while expanding its policy influence with a new office and funding.",
+    "tags": [
+      "AI policy",
+      "automation",
+      "taxation",
+      "public funds",
+      "OpenAI"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40718",
+    "title": "科学家通过基因改造烟草合成五种天然致幻剂，产量最高提升 40 倍",
+    "url": "https://www.science.org/doi/10.1126/sciadv.aeb3034",
+    "source": "telegram",
+    "score": 8.0,
+    "reason": "This content reports a significant scientific breakthrough in genetic engineering, demonstrating the potential for sustainable production of psychoactive substances with medical applications. The use of AlphaFold3 for protein structure prediction adds technical depth. The research has implications for mental health treatment and ecological conservation.",
+    "summary": "Scientists genetically modified tobacco to produce five natural hallucinogens, with yields up to 40 times higher, offering a sustainable production method for potential psychiatric medications.",
+    "tags": [
+      "genetic engineering",
+      "psychoactive substances",
+      "mental health",
+      "sustainable production",
+      "AlphaFold3"
+    ]
+  },
+  {
+    "id": "telegram:zaihuapd:40719",
+    "title": "我国钠离子电池取得重大突破",
+    "url": "https://api3.cls.cn/share/article/2335878?os=android&amp;sv=8.7.5&amp;app=cailianpress",
+    "source": "telegram",
+    "score": 9.0,
+    "reason": "Groundbreaking research published in Nature Energy demonstrating a significant advancement in sodium-ion battery safety with potential commercial applications in EVs and large-scale energy storage.",
+    "summary": "Chinese researchers developed a self-protecting polymer electrolyte that completely prevents thermal runaway in ampere-hour level sodium-ion batteries while maintaining high performance.",
+    "tags": [
+      "battery-technology",
+      "sodium-ion",
+      "energy-storage",
+      "materials-science",
+      "electrochemistry"
+    ]
+  }
+]
