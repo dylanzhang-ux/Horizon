@@ -76,6 +76,31 @@ class HorizonOrchestrator:
             analyzed_items = await self._analyze_content(merged_items)
             self.console.print(f"🤖 Analyzed {len(analyzed_items)} items with AI\n")
 
+            # ---- Alpha Hunter: export scored signals ----
+            import json as _json
+            scored_export = [
+                {
+                    "id": item.id,
+                    "title": item.title,
+                    "url": str(item.url) if item.url else None,
+                    "source": item.source_type.value,
+                    "score": item.ai_score,
+                    "reason": item.ai_reason,
+                    "summary": item.ai_summary,
+                    "tags": item.ai_tags if item.ai_tags else None,
+                }
+                for item in analyzed_items
+                if item.ai_score is not None
+            ]
+            from pathlib import Path as _Path
+            _scored_dir = _Path("data/scored")
+            _scored_dir.mkdir(parents=True, exist_ok=True)
+            from datetime import datetime as _dt
+            _scored_path = _scored_dir / f"scored-{_dt.now().strftime('%Y-%m-%d')}.json"
+            _scored_path.write_text(_json.dumps(scored_export, indent=2, ensure_ascii=False))
+            self.console.print(f"  Saved scored signals: {_scored_path}")
+            # ---- End Alpha Hunter ----
+
             # 5. Filter by score threshold
             threshold = self.config.filtering.ai_score_threshold
             important_items = [
